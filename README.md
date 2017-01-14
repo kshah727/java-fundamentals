@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Java Fundamentals
+##Project which practices on fundamental Java conceprs e
 
 *Default Structure for A Basic Project*
 
@@ -7,6 +7,7 @@
 
 * Maven
 * Log4j
+* JUnit
 * TestNG
 
 Java Project for SQA Boot Camp Program.
